@@ -10,4 +10,5 @@ SmS Bomber With snap nad torob API !
 </br>
 4- now fill requirements and enjoy it <3
 </br>
-# nedd help?
+# need help?
+You can Dm me in discord if you need help https://discords.com/bio/p/sexydevil
