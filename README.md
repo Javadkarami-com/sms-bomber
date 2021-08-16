@@ -1,5 +1,5 @@
 # SMS bomber
-SmS Bomber With snap nad torob API !
+SmS Bomber With snap and torob API !
 
 # How to use?
 1-install python from  here https://www.python.org/downloads/
